@@ -6,7 +6,7 @@ int main() {
  const int weight = 130;
 
  //convert to kilograms
-
+//test
  double kg = weight * 0.453592;
  double meters = height * 0.0254;
 //compute bmi
